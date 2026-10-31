@@ -1,2 +1,37 @@
 
 /* Your CSS Code here. */
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+.table{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table td{
+  width: !00%;
+  padding: 10px;
+}
+
+.row1{
+  background-color: rgb(176, 102, 102);
+  color: white;
+}
+.row2{
+  background-color: rgb(255, 34, 0, 0.443);
+  color: white;
+}
+.row3 {
+  background-color: rgb(226, 187, 175);
+}
+.row4 {
+  background-color: rgb(184, 238, 167, 0.233);
+}
+
+.center-inner-table .row1  {
+  text-decoration: white;
+}
